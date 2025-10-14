@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CazuelaChapina.API", "CazuelaChapina.API.csproj", "{C485A1E6-30E6-F84E-3A8E-0FBAE9BC4F42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C485A1E6-30E6-F84E-3A8E-0FBAE9BC4F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C485A1E6-30E6-F84E-3A8E-0FBAE9BC4F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C485A1E6-30E6-F84E-3A8E-0FBAE9BC4F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C485A1E6-30E6-F84E-3A8E-0FBAE9BC4F42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82AEE6B7-92A1-4120-A671-CB1AC265DE9E}
+	EndGlobalSection
+EndGlobal
