@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MKPy7Xuzjug=",
+  "dgSpecHash": "Emsjp3M49j8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rodle\\OneDrive\\Escritorio\\proyectos\\genesis\\CazuelaChapina.API\\CazuelaChapina.API.csproj",
+  "projectFilePath": "C:\\Users\\rodle\\OneDrive\\Documentos\\GitHub\\PT_Genesis_Backend\\CazuelaChapina.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodle\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\rodle\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",

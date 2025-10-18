@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CazuelaChapina.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+186082ab6b3bdc5d052550dab86f2b8d7ca6b537")]
 [assembly: System.Reflection.AssemblyProductAttribute("CazuelaChapina.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CazuelaChapina.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
