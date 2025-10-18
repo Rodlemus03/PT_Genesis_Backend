@@ -3584,11 +3584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodle\\OneDrive\\Escritorio\\proyectos\\genesis\\CazuelaChapina.API\\CazuelaChapina.API.csproj",
+      "projectUniqueName": "C:\\Users\\rodle\\OneDrive\\Documentos\\GitHub\\PT_Genesis_Backend\\CazuelaChapina.API.csproj",
       "projectName": "CazuelaChapina.API",
-      "projectPath": "C:\\Users\\rodle\\OneDrive\\Escritorio\\proyectos\\genesis\\CazuelaChapina.API\\CazuelaChapina.API.csproj",
+      "projectPath": "C:\\Users\\rodle\\OneDrive\\Documentos\\GitHub\\PT_Genesis_Backend\\CazuelaChapina.API.csproj",
       "packagesPath": "C:\\Users\\rodle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rodle\\OneDrive\\Escritorio\\proyectos\\genesis\\CazuelaChapina.API\\obj\\",
+      "outputPath": "C:\\Users\\rodle\\OneDrive\\Documentos\\GitHub\\PT_Genesis_Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
